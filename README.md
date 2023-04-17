@@ -1,6 +1,6 @@
 # TGIA-Front
 
-[[백엔드 링크]](https://github.com/geonheeMin/TGIA-Back)
+[[백엔드 링크]](https://github.com/LapinMin/TGIA-Back)
 
 코드 실행 방법
 -------------
